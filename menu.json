@@ -1,0 +1,24 @@
+{
+    "menu": [
+      {
+        "title": "Celebration Cakes Galore",
+        "description": "Indulge in a variety of celebration cakes...",
+        "price": "Prices vary based on size and design"
+      },
+      {
+        "title": "Decadent Cake Delights",
+        "description": "Treat yourself to our decadent cake delights...",
+        "price": "£6 per slice"
+      },
+      {
+        "title": "Artisan Sandwich Platter",
+        "description": "Experience the artistry of our artisan sandwich platter...",
+        "price": "£12 per person"
+      },
+      {
+        "title": "Gourmet Sandwich Selection",
+        "description": "Savor the flavors of our gourmet sandwich selection...",
+        "price": "£10 per person"
+      }
+    ]
+  }
