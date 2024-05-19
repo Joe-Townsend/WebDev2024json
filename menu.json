@@ -1,24 +1,92 @@
 {
-    "menu": [
+  "menu": {
+    "cakes": [
       {
-        "title": "Celebration Cakes Galore",
-        "description": "Indulge in a variety of celebration cakes...",
-        "price": "Prices vary based on size and design"
+        "name": "Chocolate Cake",
+        "description": "Rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "price": 8.50
       },
       {
-        "title": "Decadent Cake Delights",
-        "description": "Treat yourself to our decadent cake delights...",
-        "price": "£6 per slice"
+        "name": "Vanilla Sponge Cake",
+        "description": "Light and fluffy vanilla sponge cake with buttercream frosting.",
+        "price": 7.00
       },
       {
-        "title": "Artisan Sandwich Platter",
-        "description": "Experience the artistry of our artisan sandwich platter...",
-        "price": "£12 per person"
+        "name": "Red Velvet Cake",
+        "description": "Classic red velvet cake with cream cheese frosting.",
+        "price": 9.00
       },
       {
-        "title": "Gourmet Sandwich Selection",
-        "description": "Savor the flavors of our gourmet sandwich selection...",
-        "price": "£10 per person"
+        "name": "Carrot Cake",
+        "description": "Moist carrot cake with a hint of cinnamon, topped with cream cheese frosting.",
+        "price": 8.00
+      }
+    ],
+    "pastries": [
+      {
+        "name": "Croissant",
+        "description": "Flaky and buttery croissant, perfect for breakfast.",
+        "price": 3.00
+      },
+      {
+        "name": "Pain au Chocolat",
+        "description": "Classic French pastry filled with rich chocolate.",
+        "price": 3.50
+      },
+      {
+        "name": "Danish Pastry",
+        "description": "Light and flaky Danish pastry with fruit filling.",
+        "price": 4.00
+      },
+      {
+        "name": "Apple Turnover",
+        "description": "Crispy pastry filled with sweet and tart apple filling.",
+        "price": 3.75
+      }
+    ],
+    "desserts": [
+      {
+        "name": "Cheesecake",
+        "description": "Creamy cheesecake with a graham cracker crust.",
+        "price": 6.50
+      },
+      {
+        "name": "Tiramisu",
+        "description": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "price": 7.00
+      },
+      {
+        "name": "Chocolate Mousse",
+        "description": "Light and airy chocolate mousse with a hint of coffee.",
+        "price": 5.50
+      },
+      {
+        "name": "Panna Cotta",
+        "description": "Silky smooth panna cotta with a berry compote.",
+        "price": 6.00
+      }
+    ],
+    "sandwiches": [
+      {
+        "name": "Turkey Club",
+        "description": "Classic turkey club sandwich with bacon, lettuce, and tomato.",
+        "price": 8.00
+      },
+      {
+        "name": "Caprese Sandwich",
+        "description": "Fresh mozzarella, tomatoes, and basil with a balsamic glaze.",
+        "price": 7.50
+      },
+      {
+        "name": "BLT",
+        "description": "Bacon, lettuce, and tomato sandwich with mayonnaise.",
+        "price": 7.00
+      },
+      {
+        "name": "Grilled Cheese",
+        "description": "Melted cheddar cheese on toasted sourdough bread.",
+        "price": 6.00
       }
     ]
   }
+}
