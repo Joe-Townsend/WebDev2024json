@@ -1,7 +1,7 @@
 {
   "menu": [
     {
-      "section": "cakes",
+      "section": "Cakes",
       "items": [
         {
           "name": "Chocolate Cake",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "section": "pastries",
+      "section": "Pastries",
       "items": [
         {
           "name": "Croissant",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "section": "desserts",
+      "section": "Desserts",
       "items": [
         {
           "name": "Cheesecake",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "section": "sandwiches",
+      "section": "Sandwiches",
       "items": [
         {
           "name": "Turkey Club",
